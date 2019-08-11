@@ -1,0 +1,4 @@
+*.json
+altairdata
+.ipynb_checkpoints
+.empty
